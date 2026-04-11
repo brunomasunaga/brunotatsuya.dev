@@ -19,7 +19,7 @@ i18next
       'pt-BR': { translation: ptBR },
     },
     detection: {
-      order: ['localStorage'],
+      order: ['localStorage', 'navigator'],
       caches: ['localStorage'],
     },
   })
