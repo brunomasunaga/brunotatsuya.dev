@@ -5,14 +5,14 @@
   },
   "index": {
     "presentation": {
-      "name": "Bruno Tatsuya",
+      "name": "Bruno Masunaga",
       "role": "Engenheiro de Software",
       "description": "Projetando sistemas confiáveis que escalam e entregam <underline>impacto real</underline>."
     },
     "about": {
       "eyebrow": "Sobre",
       "title": "Construir com propósito",
-      "description": "Sou <strong>Bruno</strong>, um engenheiro de software e cientista da computação com mais de 7 anos de experiência construindo sistemas confiáveis e escaláveis. Baseado na França e atualmente trabalhando como Backend Engineer na <qonto>Qonto</qonto>, meu foco é construir tecnologia que remove atritos e melhora a vida das pessoas.",
+      "description": "Sou <strong>Bruno</strong>, um engenheiro de software e cientista da computação com mais de 7 anos de experiência construindo sistemas confiáveis e escaláveis. Atualmente trabalhando como Backend Engineer na <qonto>Qonto</qonto>, meu foco é construir tecnologia que remove atritos e melhora a vida das pessoas.",
       "tabs": {
         "programming": "Programação",
         "tools": "Soluções",
@@ -21,7 +21,7 @@
     }
   },
   "footer": {
-    "credit": "Desenhado e desenvolvido por <name>Bruno Tatsuya</name> © 2026"
+    "credit": "Desenhado e desenvolvido por <name>Bruno Masunaga</name> © 2026"
   },
   "notFound": {
     "eyebrow": "404 — página não encontrada",

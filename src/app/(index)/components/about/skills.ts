@@ -6,8 +6,8 @@ export type Skill = {
 }
 
 export const programmingSkills: Skill[] = [
-  { name: 'Ruby', logo: '/logos/ruby.svg', alt: 'Ruby' },
   { name: 'Golang', logo: '/logos/go.svg', alt: 'Go' },
+  { name: 'Ruby', logo: '/logos/ruby.svg', alt: 'Ruby' },
   { name: 'Python', logo: '/logos/python.svg', alt: 'Python' },
   { name: 'TypeScript', logo: '/logos/typescript.svg', alt: 'TypeScript' },
   {
