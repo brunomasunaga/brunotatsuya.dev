@@ -32,9 +32,9 @@ export function About() {
               i18nKey="index.about.description"
               components={{
                 strong: <strong className="text-foreground font-semibold" />,
-                qonto: (
+                sezzle: (
                   <a
-                    href="https://qonto.com"
+                    href="https://sezzle.com"
                     target="_blank"
                     rel="noreferrer"
                     className="text-primary relative inline-block no-underline after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 after:bg-current after:transition-[width] after:duration-300 hover:after:w-full"
